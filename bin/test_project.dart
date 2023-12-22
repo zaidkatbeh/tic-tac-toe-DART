@@ -1,1 +1,1 @@
-import 'package:test_project/test_project.dart' as test_project;
+import 'package:test_project/main.dart' as test_project;
